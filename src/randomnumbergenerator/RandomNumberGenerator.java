@@ -51,7 +51,8 @@ public class RandomNumberGenerator {
                 System.out.println("Too low.");
             } else {
                 //If a guess is high print a message
-                System.out.println("Too high.");
+                System.out.println("What are you doing");
+                
             }
         }
         //If the user cannot guess print the message.
